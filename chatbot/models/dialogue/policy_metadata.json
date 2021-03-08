@@ -3,22 +3,22 @@
     "action_listen": {
       "slots": []
     },
-    "utter_enquiry": {
+    "utter_receive_complaint": {
       "slots": []
     },
     "utter_take_suggestion": {
       "slots": []
     },
-    "utter_receive_complaint": {
-      "slots": []
-    },
-    "utter_greet": {
-      "slots": []
-    },
     "utter_order_received": {
       "slots": []
     },
+    "utter_enquiry": {
+      "slots": []
+    },
     "utter_goodbye": {
+      "slots": []
+    },
+    "utter_greet": {
       "slots": []
     }
   },
