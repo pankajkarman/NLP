@@ -27,7 +27,7 @@ actions:
 
 templates:
   utter_greet:
-  - text: "Hey! Welcome to Biker's cafe . How may I help you ?"
+  - text: "Hey! Welcome to Apna General Store . How may I help you ?"
 
   utter_menu:
   - text: "Yes, we are open 24 X 7. Here's our menu. 1. Chicken popcorn  2. White sauce pasta 3. Macroni  4. Lasagna  5. Pizza  6. Taco  7. Garlic breadsticks  8. coke (500 ml). Enter  1 if you want popcorn, 5 for Pizza and so on"
